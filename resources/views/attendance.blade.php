@@ -35,7 +35,7 @@
         <div id="results" class="mt-4 col-12 col-lg-10 col-xl-9 mx-auto" style="display:none;">
             <div class="row g-3">
                 <div class="col-lg-8 col-12">
-                    <div class="card shadow-sm h-100">
+                    <div class="card shadow-sm">
                         <div class="card-header bg-primary text-white">
                             <h5 class="mb-0">Attendance Results</h5>
                         </div>
