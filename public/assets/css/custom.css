@@ -1,0 +1,29 @@
+.minimal-card {
+    border-radius: 10px;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+    padding: 2rem 1.5rem;
+}
+
+.minimal-title {
+    font-size: 1.7rem;
+    font-weight: 500;
+}
+
+.minimal-label {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.minimal-btn {
+    font-size: 1.05rem;
+    padding: 0.6rem 0;
+}
+
+.minimal-input {
+    font-size: 1rem;
+    padding: 0.5rem 0.75rem;
+}
+
+.error {
+    color: red;
+}
