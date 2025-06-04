@@ -41,5 +41,5 @@ A Laravel app to compare paid hours vs. actual worked hours from Excel files.
 
 📦 Packages Used
 
-Laravel – framework
-maatwebsite/excel – for reading Excel files
+1. Laravel – framework
+2. maatwebsite/excel – for reading Excel files
